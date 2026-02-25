@@ -12,13 +12,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Conectando XML com Kotlin
         val editTextAlcool = findViewById<EditText>(R.id.editTextAlcool)
         val editTextGasolina = findViewById<EditText>(R.id.editTextGasolina)
         val buttonCalcular = findViewById<Button>(R.id.buttonCalcular)
         val textViewResultado = findViewById<TextView>(R.id.textViewResultado)
 
-        // Clique do botão
         buttonCalcular.setOnClickListener {
 
             val alcoolTexto = editTextAlcool.text.toString()
