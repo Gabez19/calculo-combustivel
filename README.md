@@ -13,7 +13,7 @@ Aplicativo Android desenvolvido em Kotlin que calcula qual combustível é mais 
 
 Clique no link abaixo para assistir ao vídeo:
 
-👉 https://youtube.com/shorts/jyYvuQA9dxE?feature=shared
+👉 https://www.youtube.com/shorts/jyYvuQA9dxE
 
 ## 📷 Preview do App
 
